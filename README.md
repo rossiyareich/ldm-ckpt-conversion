@@ -1,7 +1,7 @@
 # ldm-ckpt-conversion
 
 <p>
-    <a href="https://github.com/rossiyareich/marching-waifu/blob/main/LICENSE">
+    <a href="https://github.com/rossiyareich/ldm-ckpt-conversion/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/rossiyareich/ldm-ckpt-conversion">
     </a>
 </p>
