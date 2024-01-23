@@ -12,8 +12,8 @@ dependencies:
   - torchtext
   - pytorch-cuda=11.8
   - pip:
-    - diffusers
-    - transformers
-    - omegaconf
-    - safetensors
-    - huggingface_hub 
+      - diffusers
+      - transformers
+      - omegaconf
+      - safetensors
+      - huggingface_hub
